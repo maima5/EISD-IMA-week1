@@ -1,7 +1,6 @@
 # EISD-IMA-week1
 Study Group SD Week 1
 
-punya ima
 git branch buat liat brach
 git status buat liat status commitnya
 git branch name buat bikin branch baru
